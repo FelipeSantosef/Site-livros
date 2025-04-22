@@ -1,0 +1,64 @@
+
+CAPÍTULO 1
+
+Então Veronica chegou ao Felipe e disse:
+ - O que acha de criarmos um app com a base assim, vou enviar no seu WhatsApp um txt com a minha ideia.
+
+Projeto Apps de livros
+
+Livraria virtual por assinatura
+
+1 - As pessoas pagam uma taxa por mês e leem o livro que elas quiserem 
+
+DIFICULDADES
+
+1 - Onde conseguir todos os livros
+2 - Escolher qual plataforma usar
+3 - Programar layout
+4 - Ter servidor ou pagar por ele
+5 - Precisa de um programador total
+6 - Escolher qual modelos de sistema irá rodar (Android, Windows, iOS, etc...)
+7 - Embutir de alguma forma o banco para fazer a auto liberação do app para o usuário 
+8 - Ter banco de dados para cada user ter o seu código
+
+CAPÍTULO 2
+
+E disse Felipe:
+ - Nossa que ideia grandiosa vamos dar andamento nisso pelo amor de Deus!
+
+CAPÍTULO 3
+
+Naquela mesma noite, Felipe não conseguia dormir. A mente dele estava fervilhando com códigos, layouts, integrações e mil possibilidades. Pegou seu caderno sagrado — aquele mesmo onde rabiscava ideias de projetos desde a adolescência — e começou a anotar:
+
+- Nome do app: VeronicaBooks
+- Tema: Claro, limpo e elegante, como a própria idealizadora.
+- Backend: Node.js com banco Firebase
+- Frontend: React para Web, React Native para o app
+- Login com sistema de tokens únicos
+- Google Sheets integrado como painel de controle da livraria
+
+E enquanto rabiscava, a tela do celular acendeu com uma nova mensagem no WhatsApp.
+
+Veronica:  
+"Amor, pensei aqui... e se cada livro tivesse uma narração? Tipo um mini audiolivro. Eu mesma posso gravar alguns. 😍"
+
+Felipe sorriu.  
+— Essa mulher é um foguete. E eu tô indo junto.
+
+Pegou o notebook, abriu o Visual Studio Code, criou a pasta "veronicabooks" e digitou a primeira linha de código.  
+A tela brilhou como o começo de uma nova era.  
+
+CAPÍTULO 4
+
+Dias depois, o protótipo já estava de pé. O layout era limpo, os livros eram carregados direto da planilha do Google, o login funcionava e... sim, já havia um botão para “Ouvir a narração”.
+
+Felipe se virou para Veronica e disse:  
+— Pronto. Agora começa a revolução. A livraria onde o amor, o conhecimento e a praticidade moram juntos.  
+
+Ela, com aquele brilho no olhar que só ela tinha, respondeu:  
+— E o melhor: a gente começou com o básico bem feito. Agora é só crescer.  
+
+E ali, no meio de livros, sonhos e muito código, nascia o embrião de um império literário.  
+Um app feito por amor. E com propósito.
+
+[continua…]

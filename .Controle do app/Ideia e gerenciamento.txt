@@ -1,0 +1,26 @@
+CAPITULO 1
+
+Então Veronica chegou ao Felipe e disse:
+ - O que acha de criarmos um app com a base assim, vou enviar no seu whatsaap um txt com a minha ideia.
+
+Projeto Apps de livros
+
+Livraria virtual por assinatura
+
+1 - As pessoas pagam uma taxa por mês e ler o livro que elas quiserem 
+
+DIFICULDADES
+
+1 - Onde conseguir todos os livros
+2 - Escolher qual plataforma usar
+3 - Programar layout
+4 - Ter servidor ou pagar por ele
+5 - Precisa de um programador total
+6 - Escolher qual modelos de sistema ire rodar ( Android, Windows, ios, etc...)
+7 - Embutir de alguma forma o banco para fazer a auto liberação do app para o usuário 
+8 - Ter banco de dados para cada user ter o seu código
+
+CAPITULO 2
+
+E disse Felipe:
+ - Nossa que ideia grandiosa vamos dar andamento nisso pelo amor de deus!
